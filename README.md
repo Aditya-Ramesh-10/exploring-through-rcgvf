@@ -2,7 +2,7 @@
 
 This repository supplements the paper ["Exploring through Random Curiosity with General Value Functions"](https://arxiv.org/abs/2211.10282). The code for the MiniGrid experiments is available in this repository. 
 
-Code for the Diabolical Lock experiments is available [here](https://github.com/Aditya-Ramesh-10/diabolical-lock-experiments)
+Code for the Diabolical Lock experiments is available [here](https://github.com/Aditya-Ramesh-10/diabolical-lock-experiments).
 
 The implementation focuses on clarity and flexibility rather than computational efficiency.
 
