@@ -23,7 +23,7 @@ python3 -m scripts.train_noveld
 python3 -m scripts.train_agac
 ```
 
-The settings for environment and algorithm can be modified in the `config_defaults` dictionary in each training file, or through a [Weights & Biases (wandb)](https://docs.wandb.ai/) sweep. Details of baselines and the selected environment specific hyperparameters are available in Appendix C of our [paper](https://arxiv.org/abs/2211.10282).
+The settings for environment and algorithm can be modified in the `config_defaults` dictionary in each training file, or through a [Weights & Biases (wandb)](https://docs.wandb.ai/) sweep. Details of baselines and the environment specific hyperparameters are available in Appendix C of our [paper](https://arxiv.org/abs/2211.10282).
 
 
 In case you don't want to utilise Weights & Biases:
