@@ -35,6 +35,7 @@ export WANDB_MODE=disabled
 ## Dependencies
 
 - gymnasium
+- [minigrid](https://github.com/Farama-Foundation/Minigrid)
 - [torch-ac](https://github.com/lcswillems/torch-ac)
 - numpy
 - torch
